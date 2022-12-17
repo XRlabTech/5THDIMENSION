@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: QrCodeReference
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5666537521687658659
+  m_GuidHigh: 703484918084182712
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5732575532060950173
+      m_GuidHigh: 17276418268454128783
+    m_SerializedTextureGuid:
+      m_GuidLow: 2631340066678316096
+      m_GuidHigh: 12384908793982910699
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Chicken
+    m_Texture: {fileID: 2800000, guid: 659d1c4065d92484eb80f618ee08e0ab, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4947281088671358135
+      m_GuidHigh: 7549385133879822467
+    m_SerializedTextureGuid:
+      m_GuidLow: 6126225152387076524
+      m_GuidHigh: 2175689283581931754
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Deer
+    m_Texture: {fileID: 2800000, guid: 661851acb9515504ea708649e099311e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4806024020088642272
+      m_GuidHigh: 12621060484424729735
+    m_SerializedTextureGuid:
+      m_GuidLow: 17488771594732871568
+      m_GuidHigh: 16950645831458181563
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Sheep
+    m_Texture: {fileID: 2800000, guid: 1dfe9f90991bf2b4bb51854993ca3ceb, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4903631432103868587
+      m_GuidHigh: 10334113185976842427
+    m_SerializedTextureGuid:
+      m_GuidLow: 4387663691555979059
+      m_GuidHigh: 8717406212755676922
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Cow
+    m_Texture: {fileID: 2800000, guid: 7112bf331ce13ce4fade1582c372fa78, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4701900649617396613
+      m_GuidHigh: 3383274841439884674
+    m_SerializedTextureGuid:
+      m_GuidLow: 8472522750821590137
+      m_GuidHigh: 98783703710864009
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Horse
+    m_Texture: {fileID: 2800000, guid: 7222e479728d75948992485141f35e01, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4865292165856468901
+      m_GuidHigh: 3845754363011103930
+    m_SerializedTextureGuid:
+      m_GuidLow: 7432327651283358326
+      m_GuidHigh: 12905206591057533128
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Pig
+    m_Texture: {fileID: 2800000, guid: e50ed276ee9e6724c8980315058118b3, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4781259808356747900
+      m_GuidHigh: 9465689651146416542
+    m_SerializedTextureGuid:
+      m_GuidLow: 9616347411170890970
+      m_GuidHigh: 12325420149657560120
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Rabbit
+    m_Texture: {fileID: 2800000, guid: 579694da2105857438e4c7bf52b00cab, type: 3}

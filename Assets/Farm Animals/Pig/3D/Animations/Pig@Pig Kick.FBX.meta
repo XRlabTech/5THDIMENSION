@@ -1,0 +1,918 @@
+fileFormatVersion: 2
+guid: f6969e64cf7b85b44bd05b22e1325162
+timeCreated: 1599933905
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Eye Left
+    100002: Eye Right
+    100004: Pig
+    100006: Pig Head
+    100008: Pig Jaw
+    100010: Pig L Calf
+    100012: Pig L Cheek
+    100014: Pig L Clavicle
+    100016: Pig L Ear
+    100018: Pig L Ear02
+    100020: Pig L Ear03
+    100022: Pig L Eyebrow
+    100024: Pig L Finger0
+    100026: Pig L Finger1
+    100028: Pig L Foot
+    100030: Pig L Forearm
+    100032: Pig L Hand
+    100034: Pig L Lower Eyelid
+    100036: Pig L Lower Mouth
+    100038: Pig L Mouth
+    100040: Pig L Thigh
+    100042: Pig L Toe0
+    100044: Pig L Upper Eyelid
+    100046: Pig L Upper Mouth
+    100048: Pig L UpperArm
+    100050: Pig Neck
+    100052: Pig Nose
+    100054: Pig Pelvis
+    100056: Pig R Calf
+    100058: Pig R Cheek
+    100060: Pig R Clavicle
+    100062: Pig R Ear
+    100064: Pig R Ear02
+    100066: Pig R Ear03
+    100068: Pig R Eyebrow
+    100070: Pig R Finger0
+    100072: Pig R Finger1
+    100074: Pig R Foot
+    100076: Pig R Forearm
+    100078: Pig R Hand
+    100080: Pig R Lower Eyelid
+    100082: Pig R Lower Mouth
+    100084: Pig R Mouth
+    100086: Pig R Thigh
+    100088: Pig R Toe0
+    100090: Pig R Upper Eyelid
+    100092: Pig R Upper Mouth
+    100094: Pig R UpperArm
+    100096: Pig Spine
+    100098: Pig Spine1
+    100100: Pig Spine2
+    100102: Pig Tail
+    100104: Pig Tail1
+    100106: Pig Tail2
+    100108: Pig Tail3
+    100110: Pig Tail4
+    100112: Pig Tongue
+    100114: Pig Tongue02
+    100116: Pig Tongue03
+    100118: //RootNode
+    400000: Eye Left
+    400002: Eye Right
+    400004: Pig
+    400006: Pig Head
+    400008: Pig Jaw
+    400010: Pig L Calf
+    400012: Pig L Cheek
+    400014: Pig L Clavicle
+    400016: Pig L Ear
+    400018: Pig L Ear02
+    400020: Pig L Ear03
+    400022: Pig L Eyebrow
+    400024: Pig L Finger0
+    400026: Pig L Finger1
+    400028: Pig L Foot
+    400030: Pig L Forearm
+    400032: Pig L Hand
+    400034: Pig L Lower Eyelid
+    400036: Pig L Lower Mouth
+    400038: Pig L Mouth
+    400040: Pig L Thigh
+    400042: Pig L Toe0
+    400044: Pig L Upper Eyelid
+    400046: Pig L Upper Mouth
+    400048: Pig L UpperArm
+    400050: Pig Neck
+    400052: Pig Nose
+    400054: Pig Pelvis
+    400056: Pig R Calf
+    400058: Pig R Cheek
+    400060: Pig R Clavicle
+    400062: Pig R Ear
+    400064: Pig R Ear02
+    400066: Pig R Ear03
+    400068: Pig R Eyebrow
+    400070: Pig R Finger0
+    400072: Pig R Finger1
+    400074: Pig R Foot
+    400076: Pig R Forearm
+    400078: Pig R Hand
+    400080: Pig R Lower Eyelid
+    400082: Pig R Lower Mouth
+    400084: Pig R Mouth
+    400086: Pig R Thigh
+    400088: Pig R Toe0
+    400090: Pig R Upper Eyelid
+    400092: Pig R Upper Mouth
+    400094: Pig R UpperArm
+    400096: Pig Spine
+    400098: Pig Spine1
+    400100: Pig Spine2
+    400102: Pig Tail
+    400104: Pig Tail1
+    400106: Pig Tail2
+    400108: Pig Tail3
+    400110: Pig Tail4
+    400112: Pig Tongue
+    400114: Pig Tongue02
+    400116: Pig Tongue03
+    400118: //RootNode
+    2100000: Eyes
+    2100002: Eye Shine
+    2300000: Eye Left
+    2300002: Eye Right
+    3300000: Eye Left
+    3300002: Eye Right
+    4300000: Eye Right
+    4300002: Eye Left
+    7400000: Pig Kick
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Pig Kick
+      takeName: Pig Kick
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Pig
+        weight: 1
+      - path: Pig/Pig Pelvis
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig L Thigh
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig L Thigh/Pig L Calf
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig L Thigh/Pig L Calf/Pig L Foot
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig L Thigh/Pig L Calf/Pig L Foot/Pig L Toe0
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig R Thigh
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig R Thigh/Pig R Calf
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig R Thigh/Pig R Calf/Pig R Foot
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig R Thigh/Pig R Calf/Pig R Foot/Pig R Toe0
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig L Clavicle
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig L Clavicle/Pig L
+          UpperArm
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig L Clavicle/Pig L
+          UpperArm/Pig L Forearm
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig L Clavicle/Pig L
+          UpperArm/Pig L Forearm/Pig L Hand
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig L Clavicle/Pig L
+          UpperArm/Pig L Forearm/Pig L Hand/Pig L Finger0
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig L Clavicle/Pig L
+          UpperArm/Pig L Forearm/Pig L Hand/Pig L Finger1
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Eye
+          Left
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Eye
+          Right
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          Jaw
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          Jaw/Pig L Lower Mouth
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          Jaw/Pig R Lower Mouth
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          Jaw/Pig Tongue
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          Jaw/Pig Tongue/Pig Tongue02
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          Jaw/Pig Tongue/Pig Tongue02/Pig Tongue03
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          L Cheek
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          L Ear
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          L Ear/Pig L Ear02
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          L Ear/Pig L Ear02/Pig L Ear03
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          L Eyebrow
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          L Lower Eyelid
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          L Mouth
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          L Upper Eyelid
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          L Upper Mouth
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          Nose
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          R Cheek
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          R Ear
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          R Ear/Pig R Ear02
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          R Ear/Pig R Ear02/Pig R Ear03
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          R Eyebrow
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          R Lower Eyelid
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          R Mouth
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          R Upper Eyelid
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig Neck/Pig Head/Pig
+          R Upper Mouth
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig R Clavicle
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig R Clavicle/Pig R
+          UpperArm
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig R Clavicle/Pig R
+          UpperArm/Pig R Forearm
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig R Clavicle/Pig R
+          UpperArm/Pig R Forearm/Pig R Hand
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig R Clavicle/Pig R
+          UpperArm/Pig R Forearm/Pig R Hand/Pig R Finger0
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Spine/Pig Spine1/Pig Spine2/Pig R Clavicle/Pig R
+          UpperArm/Pig R Forearm/Pig R Hand/Pig R Finger1
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Tail
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Tail/Pig Tail1
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Tail/Pig Tail1/Pig Tail2
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Tail/Pig Tail1/Pig Tail2/Pig Tail3
+        weight: 1
+      - path: Pig/Pig Pelvis/Pig Tail/Pig Tail1/Pig Tail2/Pig Tail3/Pig Tail4
+        weight: 1
+      - path: Pig Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 250a42207073a6b41bc19543152985fc, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Pig Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pig Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Pig(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.0000005766212, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pig
+      parentName: Pig(Clone)
+      position: {x: -0, y: 0.20841476, z: -0.000000009813971}
+      rotation: {x: -0.50000036, y: 0.49999964, z: 0.49999964, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Pig Pelvis
+      parentName: Pig
+      position: {x: 0, y: 0, z: 0.01613453}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pig Spine
+      parentName: Pig Pelvis
+      position: {x: -0.04485319, y: -0.0001184029, z: 0.00000006236662}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Pig Spine1
+      parentName: Pig Spine
+      position: {x: -0.14871429, y: -0.000118339805, z: -3.282279e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.0000004}
+    - name: Pig Spine2
+      parentName: Pig Spine1
+      position: {x: -0.14872055, y: -0.00011793732, z: -3.2710887e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000005}
+    - name: Pig L Clavicle
+      parentName: Pig Spine2
+      position: {x: -0.10853347, y: -0.029949727, z: 0.06338778}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1.0000004, y: 1.0000015, z: 1.0000012}
+    - name: Pig L UpperArm
+      parentName: Pig L Clavicle
+      position: {x: -0.14734314, y: 0.000000009536743, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000001}
+    - name: Pig L Forearm
+      parentName: Pig L UpperArm
+      position: {x: -0.18266723, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.9999998}
+    - name: Pig L Hand
+      parentName: Pig L Forearm
+      position: {x: -0.10271129, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 0.9999999, y: 1.0000012, z: 1.0000013}
+    - name: Pig L Finger0
+      parentName: Pig L Hand
+      position: {x: -0.017640973, y: 0.005828934, z: -0.032862425}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 0.9999994, y: 1.0000005, z: 1.0000006}
+    - name: Pig L Finger1
+      parentName: Pig L Hand
+      position: {x: -0.05069248, y: -0.00022224426, z: -0.0005752182}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000002, z: 0.99999994}
+    - name: Pig Neck
+      parentName: Pig Spine2
+      position: {x: -0.14872642, y: -0.00007609844, z: -2.1105734e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.000001, z: 1.0000001}
+    - name: Pig Head
+      parentName: Pig Neck
+      position: {x: -0.09774124, y: -0.000000019073486, z: -3.6379787e-14}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.000001}
+    - name: Eye Left
+      parentName: Pig Head
+      position: {x: -0.23604019, y: 0.2568901, z: 0.09407943}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.8115567, y: 0.8115567, z: 0.8115566}
+    - name: Eye Right
+      parentName: Pig Head
+      position: {x: -0.23604019, y: 0.25689036, z: -0.09407965}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.8115566, y: 0.8115566, z: 0.8115566}
+    - name: Pig L Eyebrow
+      parentName: Pig Head
+      position: {x: -0.35035163, y: 0.29996374, z: 0.07166312}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000013}
+    - name: Pig Jaw
+      parentName: Pig Head
+      position: {x: -0.12672256, y: 0.07631701, z: 0.000000107264945}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000001, y: 1.000002, z: 1.0000007}
+    - name: Pig L Lower Mouth
+      parentName: Pig Jaw
+      position: {x: -0.27207392, y: -0.037662886, z: 0.08818907}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 0.9999998, z: 1.0000006}
+    - name: Pig R Lower Mouth
+      parentName: Pig Jaw
+      position: {x: -0.27207392, y: -0.037662353, z: -0.08818926}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 0.99999964, z: 0.9999989}
+    - name: Pig Tongue
+      parentName: Pig Jaw
+      position: {x: -0.08656799, y: 0.008686828, z: -0.000000066395}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 1.0000004, z: 0.99999964}
+    - name: Pig Tongue02
+      parentName: Pig Tongue
+      position: {x: -0.05002615, y: -0.000039901734, z: -1.10594554e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1}
+    - name: Pig Tongue03
+      parentName: Pig Tongue02
+      position: {x: -0.050026167, y: -0.000039749146, z: -1.10594554e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1}
+    - name: Pig L Cheek
+      parentName: Pig Head
+      position: {x: -0.11249611, y: 0.24205919, z: 0.26759788}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1.0000001}
+    - name: Pig L Mouth
+      parentName: Pig Head
+      position: {x: -0.07583061, y: 0.23467872, z: 0.17192085}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000007, z: 1.0000006}
+    - name: Pig L Upper Mouth
+      parentName: Pig Head
+      position: {x: -0.06918632, y: 0.31461212, z: 0.11904129}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.000001, z: 1.000001}
+    - name: Pig L Lower Eyelid
+      parentName: Pig Head
+      position: {x: -0.23333298, y: 0.24619894, z: 0.108427696}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000013, z: 1.0000004}
+    - name: Pig Nose
+      parentName: Pig Head
+      position: {x: -0.14267685, y: 0.32237142, z: 0.0000004521822}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000008, z: 1}
+    - name: Pig L Ear
+      parentName: Pig Head
+      position: {x: -0.40867254, y: 0.013605995, z: 0.16640171}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000006, z: 1.0000011}
+    - name: Pig L Ear02
+      parentName: Pig L Ear
+      position: {x: -0.111547545, y: -0.000057106015, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Pig L Ear03
+      parentName: Pig L Ear02
+      position: {x: -0.07412491, y: -0.00008796692, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.000001, z: 1.0000008}
+    - name: Pig L Upper Eyelid
+      parentName: Pig Head
+      position: {x: -0.22941482, y: 0.23965614, z: 0.10397387}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000007, z: 0.99999994}
+    - name: Pig R Cheek
+      parentName: Pig Head
+      position: {x: -0.11249611, y: 0.24206068, z: -0.26759657}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 0.9999995, z: 0.99999964}
+    - name: Pig R Mouth
+      parentName: Pig Head
+      position: {x: -0.07583061, y: 0.2346797, z: -0.17191955}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000005}
+    - name: Pig R Upper Mouth
+      parentName: Pig Head
+      position: {x: -0.06918632, y: 0.31461278, z: -0.11903954}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000011, y: 1.0000007, z: 0.99999946}
+    - name: Pig R Lower Eyelid
+      parentName: Pig Head
+      position: {x: -0.23333298, y: 0.24619958, z: -0.10842634}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000012, z: 1}
+    - name: Pig R Ear
+      parentName: Pig Head
+      position: {x: -0.40867254, y: 0.013606911, z: -0.16640162}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000013, y: 1.000001, z: 1.0000004}
+    - name: Pig R Ear02
+      parentName: Pig R Ear
+      position: {x: -0.11154762, y: -0.00005706787, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999995, y: 0.9999998, z: 1}
+    - name: Pig R Ear03
+      parentName: Pig R Ear02
+      position: {x: -0.074124984, y: -0.00008789062, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000012, y: 1.000001, z: 1.0000002}
+    - name: Pig R Upper Eyelid
+      parentName: Pig Head
+      position: {x: -0.22941482, y: 0.23965669, z: -0.10397255}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000001, y: 1.0000017, z: 1.0000004}
+    - name: Pig R Eyebrow
+      parentName: Pig Head
+      position: {x: -0.35035163, y: 0.29996416, z: -0.07166148}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000012, y: 1.0000004, z: 1.0000007}
+    - name: Pig R Clavicle
+      parentName: Pig Spine2
+      position: {x: -0.10853347, y: -0.029949384, z: -0.06338795}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000002}
+    - name: Pig R UpperArm
+      parentName: Pig R Clavicle
+      position: {x: -0.14734316, y: 0, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000012, y: 1.0000008, z: 1.0000008}
+    - name: Pig R Forearm
+      parentName: Pig R UpperArm
+      position: {x: -0.1826672, y: -0.000000009536743, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000001, y: 1.0000001, z: 1.0000006}
+    - name: Pig R Hand
+      parentName: Pig R Forearm
+      position: {x: -0.10271131, y: 0.000000009536743, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Pig R Finger0
+      parentName: Pig R Hand
+      position: {x: -0.017640952, y: 0.005828934, z: 0.03286243}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 0.9999994, y: 0.9999995, z: 0.99999964}
+    - name: Pig R Finger1
+      parentName: Pig R Hand
+      position: {x: -0.05069246, y: -0.00022224426, z: 0.0005752182}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 0.99999964, z: 0.99999994}
+    - name: Pig Tail
+      parentName: Pig Pelvis
+      position: {x: -0.022861747, y: -0.25618443, z: 0.0000007084586}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000005}
+    - name: Pig Tail1
+      parentName: Pig Tail
+      position: {x: -0.09787418, y: -0.000010318756, z: -0.000000004470348}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000012, z: 1.0000007}
+    - name: Pig Tail2
+      parentName: Pig Tail1
+      position: {x: -0.09787456, y: 0.0000037002562, z: 0.0000049209593}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999996, y: 1.0000001, z: 0.9999999}
+    - name: Pig Tail3
+      parentName: Pig Tail2
+      position: {x: -0.09787384, y: 0.000011863708, z: 0.0000032997132}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000011, y: 1.0000008, z: 1.0000001}
+    - name: Pig Tail4
+      parentName: Pig Tail3
+      position: {x: -0.09787386, y: -0.000011901855, z: 0.00000034332274}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 0.99999976, z: 1.0000007}
+    - name: Pig L Thigh
+      parentName: Pig Pelvis
+      position: {x: 0.00000022888183, y: 0.00000023399508, z: 0.16216107}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000007, y: 1, z: 1.000001}
+    - name: Pig L Calf
+      parentName: Pig L Thigh
+      position: {x: -0.12728316, y: -0.0000000011920929, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000008, z: 1.0000006}
+    - name: Pig L Foot
+      parentName: Pig L Calf
+      position: {x: -0.058533218, y: 0.0000000011920929, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Pig L Toe0
+      parentName: Pig L Foot
+      position: {x: -0.03219247, y: 0.04902144, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000001}
+    - name: Pig R Thigh
+      parentName: Pig Pelvis
+      position: {x: -0.00000022888183, y: -0.00000021577489, z: -0.16216107}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000006}
+    - name: Pig R Calf
+      parentName: Pig R Thigh
+      position: {x: -0.12728316, y: 0, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000002}
+    - name: Pig R Foot
+      parentName: Pig R Calf
+      position: {x: -0.058533233, y: 5.9604643e-10, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 0.9999997, z: 1.0000001}
+    - name: Pig R Toe0
+      parentName: Pig R Foot
+      position: {x: -0.03219247, y: 0.04902144, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000015, y: 1.0000002, z: 1.0000012}
+    - name: Pig Mesh
+      parentName: Pig(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 1bd23718a529d1348ab484aab3679ba0,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

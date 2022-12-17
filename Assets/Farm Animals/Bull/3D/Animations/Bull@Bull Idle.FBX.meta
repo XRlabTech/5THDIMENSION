@@ -1,0 +1,996 @@
+fileFormatVersion: 2
+guid: 0a155480fadf6844f98cb3ae76637daa
+timeCreated: 1584122679
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bull
+    100002: Bull Head
+    100004: Bull Jaw
+    100006: Bull L Calf
+    100008: Bull L Clavicle
+    100010: Bull L Ear
+    100012: Bull L Eye
+    100014: Bull L Eyebrow
+    100016: Bull L Finger0
+    100018: Bull L Finger1
+    100020: Bull L Foot
+    100022: Bull L Forearm
+    100024: Bull L Hand
+    100026: Bull L Lower Eyelid
+    100028: Bull L Lower Mouth
+    100030: Bull L Mouth
+    100032: Bull L Thigh
+    100034: Bull L Toe0
+    100036: Bull L Upper Eyelid
+    100038: Bull L Upper Mouth
+    100040: Bull L UpperArm
+    100042: Bull Neck
+    100044: Bull Nose
+    100046: Bull Pelvis
+    100048: Bull R Calf
+    100050: Bull R Clavicle
+    100052: Bull R Ear
+    100054: Bull R Eye
+    100056: Bull R Eyebrow
+    100058: Bull R Finger0
+    100060: Bull R Finger1
+    100062: Bull R Foot
+    100064: Bull R Forearm
+    100066: Bull R Hand
+    100068: Bull R Lower Eyelid
+    100070: Bull R Lower Mouth
+    100072: Bull R Mouth
+    100074: Bull R Thigh
+    100076: Bull R Toe0
+    100078: Bull R Upper Eyelid
+    100080: Bull R Upper Mouth
+    100082: Bull R UpperArm
+    100084: Bull Spine
+    100086: Bull Spine1
+    100088: Bull Spine2
+    100090: Bull Tail
+    100092: Bull Tail02
+    100094: Bull Tail03
+    100096: Bull Tail04
+    100098: Bull Tongue
+    100100: Bull Tongue02
+    100102: //RootNode
+    400000: Bull
+    400002: Bull Head
+    400004: Bull Jaw
+    400006: Bull L Calf
+    400008: Bull L Clavicle
+    400010: Bull L Ear
+    400012: Bull L Eye
+    400014: Bull L Eyebrow
+    400016: Bull L Finger0
+    400018: Bull L Finger1
+    400020: Bull L Foot
+    400022: Bull L Forearm
+    400024: Bull L Hand
+    400026: Bull L Lower Eyelid
+    400028: Bull L Lower Mouth
+    400030: Bull L Mouth
+    400032: Bull L Thigh
+    400034: Bull L Toe0
+    400036: Bull L Upper Eyelid
+    400038: Bull L Upper Mouth
+    400040: Bull L UpperArm
+    400042: Bull Neck
+    400044: Bull Nose
+    400046: Bull Pelvis
+    400048: Bull R Calf
+    400050: Bull R Clavicle
+    400052: Bull R Ear
+    400054: Bull R Eye
+    400056: Bull R Eyebrow
+    400058: Bull R Finger0
+    400060: Bull R Finger1
+    400062: Bull R Foot
+    400064: Bull R Forearm
+    400066: Bull R Hand
+    400068: Bull R Lower Eyelid
+    400070: Bull R Lower Mouth
+    400072: Bull R Mouth
+    400074: Bull R Thigh
+    400076: Bull R Toe0
+    400078: Bull R Upper Eyelid
+    400080: Bull R Upper Mouth
+    400082: Bull R UpperArm
+    400084: Bull Spine
+    400086: Bull Spine1
+    400088: Bull Spine2
+    400090: Bull Tail
+    400092: Bull Tail02
+    400094: Bull Tail03
+    400096: Bull Tail04
+    400098: Bull Tongue
+    400100: Bull Tongue02
+    400102: //RootNode
+    7400000: Bull Idle
+    7400002: Bull Idle 2
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Bull Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bull
+        weight: 1
+      - path: Bull/Bull Pelvis
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull L Thigh
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull L Thigh/Bull L Calf
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull L Thigh/Bull L Calf/Bull L Foot
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull L Thigh/Bull L Calf/Bull L Foot/Bull L Toe0
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull R Thigh
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull R Thigh/Bull R Calf
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull R Thigh/Bull R Calf/Bull R Foot
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull R Thigh/Bull R Calf/Bull R Foot/Bull R Toe0
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull L Clavicle
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull L Clavicle/Bull
+          L UpperArm
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull L Clavicle/Bull
+          L UpperArm/Bull L Forearm
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull L Clavicle/Bull
+          L UpperArm/Bull L Forearm/Bull L Hand
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull L Clavicle/Bull
+          L UpperArm/Bull L Forearm/Bull L Hand/Bull L Finger0
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull L Clavicle/Bull
+          L UpperArm/Bull L Forearm/Bull L Hand/Bull L Finger1
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          Jaw
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          Jaw/Bull L Lower Mouth
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          Jaw/Bull L Mouth
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          Jaw/Bull R Lower Mouth
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          Jaw/Bull R Mouth
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          Jaw/Bull Tongue
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          Jaw/Bull Tongue/Bull Tongue02
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          L Ear
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          L Eye
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          L Eyebrow
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          L Lower Eyelid
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          L Upper Eyelid
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          L Upper Mouth
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          Nose
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          R Ear
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          R Eye
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          R Eyebrow
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          R Lower Eyelid
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          R Upper Eyelid
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          R Upper Mouth
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull R Clavicle
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull R Clavicle/Bull
+          R UpperArm
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull R Clavicle/Bull
+          R UpperArm/Bull R Forearm
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull R Clavicle/Bull
+          R UpperArm/Bull R Forearm/Bull R Hand
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull R Clavicle/Bull
+          R UpperArm/Bull R Forearm/Bull R Hand/Bull R Finger0
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull R Clavicle/Bull
+          R UpperArm/Bull R Forearm/Bull R Hand/Bull R Finger1
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Tail
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Tail/Bull Tail02
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Tail/Bull Tail02/Bull Tail03
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Tail/Bull Tail02/Bull Tail03/Bull Tail04
+        weight: 1
+      - path: Bull Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: d77a0f7810649574395db060a6973966, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bull Idle 2
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bull
+        weight: 1
+      - path: Bull/Bull Pelvis
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull L Thigh
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull L Thigh/Bull L Calf
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull L Thigh/Bull L Calf/Bull L Foot
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull L Thigh/Bull L Calf/Bull L Foot/Bull L Toe0
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull R Thigh
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull R Thigh/Bull R Calf
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull R Thigh/Bull R Calf/Bull R Foot
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull R Thigh/Bull R Calf/Bull R Foot/Bull R Toe0
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull L Clavicle
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull L Clavicle/Bull
+          L UpperArm
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull L Clavicle/Bull
+          L UpperArm/Bull L Forearm
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull L Clavicle/Bull
+          L UpperArm/Bull L Forearm/Bull L Hand
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull L Clavicle/Bull
+          L UpperArm/Bull L Forearm/Bull L Hand/Bull L Finger0
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull L Clavicle/Bull
+          L UpperArm/Bull L Forearm/Bull L Hand/Bull L Finger1
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          Jaw
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          Jaw/Bull L Lower Mouth
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          Jaw/Bull L Mouth
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          Jaw/Bull R Lower Mouth
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          Jaw/Bull R Mouth
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          Jaw/Bull Tongue
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          Jaw/Bull Tongue/Bull Tongue02
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          L Ear
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          L Eye
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          L Eyebrow
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          L Lower Eyelid
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          L Upper Eyelid
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          L Upper Mouth
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          Nose
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          R Ear
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          R Eye
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          R Eyebrow
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          R Lower Eyelid
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          R Upper Eyelid
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull Neck/Bull Head/Bull
+          R Upper Mouth
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull R Clavicle
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull R Clavicle/Bull
+          R UpperArm
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull R Clavicle/Bull
+          R UpperArm/Bull R Forearm
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull R Clavicle/Bull
+          R UpperArm/Bull R Forearm/Bull R Hand
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull R Clavicle/Bull
+          R UpperArm/Bull R Forearm/Bull R Hand/Bull R Finger0
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Spine/Bull Spine1/Bull Spine2/Bull R Clavicle/Bull
+          R UpperArm/Bull R Forearm/Bull R Hand/Bull R Finger1
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Tail
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Tail/Bull Tail02
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Tail/Bull Tail02/Bull Tail03
+        weight: 1
+      - path: Bull/Bull Pelvis/Bull Tail/Bull Tail02/Bull Tail03/Bull Tail04
+        weight: 1
+      - path: Bull Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: d77a0f7810649574395db060a6973966, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Bull Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bull Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Bull(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.0000005286039, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bull
+      parentName: Bull(Clone)
+      position: {x: -1.9352282e-10, y: 0.33606762, z: -0.004427305}
+      rotation: {x: -0.50000036, y: 0.49999964, z: 0.49999964, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Bull Pelvis
+      parentName: Bull
+      position: {x: -2.1175826e-22, y: 0, z: 0.02157113}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bull Spine
+      parentName: Bull Pelvis
+      position: {x: -0.07863468, y: -0.00010123521, z: 0.000000109190914}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.9999997}
+    - name: Bull Spine1
+      parentName: Bull Spine
+      position: {x: -0.1278278, y: -0.00011468649, z: -3.180685e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: Bull Spine2
+      parentName: Bull Spine1
+      position: {x: -0.14584145, y: -0.00024458885, z: -6.783739e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000001}
+    - name: Bull Neck
+      parentName: Bull Spine2
+      position: {x: -0.31276625, y: -0.00015119076, z: -4.193498e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Bull Head
+      parentName: Bull Neck
+      position: {x: -0.22818992, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.9999994, z: 0.9999996}
+    - name: Bull L Eyebrow
+      parentName: Bull Head
+      position: {x: -0.32943863, y: 0.25691918, z: 0.09906217}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.000001, z: 1}
+    - name: Bull L Upper Eyelid
+      parentName: Bull Head
+      position: {x: -0.3059822, y: 0.35772032, z: 0.119710736}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1}
+    - name: Bull L Upper Mouth
+      parentName: Bull Head
+      position: {x: -0.084927134, y: 0.5633592, z: 0.14265445}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000002}
+    - name: Bull Nose
+      parentName: Bull Head
+      position: {x: -0.17196304, y: 0.57605904, z: 0.0000420966}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.99999964}
+    - name: Bull L Lower Eyelid
+      parentName: Bull Head
+      position: {x: -0.30591583, y: 0.35781345, z: 0.11973707}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1}
+    - name: Bull R Upper Mouth
+      parentName: Bull Head
+      position: {x: -0.084927134, y: 0.5633599, z: -0.14265132}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+    - name: Bull Jaw
+      parentName: Bull Head
+      position: {x: -0.18601792, y: 0.2081761, z: 0.00000028320633}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000011, z: 1.0000005}
+    - name: Bull L Mouth
+      parentName: Bull Jaw
+      position: {x: -0.19443798, y: -0.037277985, z: 0.15375662}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000006}
+    - name: Bull L Lower Mouth
+      parentName: Bull Jaw
+      position: {x: -0.34020922, y: -0.001266098, z: 0.10430818}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.000001}
+    - name: Bull R Lower Mouth
+      parentName: Bull Jaw
+      position: {x: -0.34020928, y: -0.0012655639, z: -0.10430817}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999996, y: 1.0000002, z: 0.9999998}
+    - name: Bull Tongue
+      parentName: Bull Jaw
+      position: {x: -0.08251209, y: 0.06293693, z: 0.00000013674784}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000004}
+    - name: Bull Tongue02
+      parentName: Bull Tongue
+      position: {x: -0.14659078, y: -0.00010086059, z: -2.7997885e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000004}
+    - name: Bull R Mouth
+      parentName: Bull Jaw
+      position: {x: -0.19443801, y: -0.037277143, z: -0.15375683}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000012, y: 1, z: 1.0000001}
+    - name: Bull L Eye
+      parentName: Bull Head
+      position: {x: -0.30589187, y: 0.35774565, z: 0.119716495}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000012}
+    - name: Bull L Ear
+      parentName: Bull Head
+      position: {x: -0.26984513, y: 0.030160354, z: 0.38122016}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000008}
+    - name: Bull R Eyebrow
+      parentName: Bull Head
+      position: {x: -0.32943863, y: 0.2569197, z: -0.09906074}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000005}
+    - name: Bull R Upper Eyelid
+      parentName: Bull Head
+      position: {x: -0.3059822, y: 0.35772094, z: -0.119708754}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000007}
+    - name: Bull R Lower Eyelid
+      parentName: Bull Head
+      position: {x: -0.30591583, y: 0.35781404, z: -0.11973508}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000004}
+    - name: Bull R Eye
+      parentName: Bull Head
+      position: {x: -0.30589187, y: 0.35774627, z: -0.11971451}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000008}
+    - name: Bull R Ear
+      parentName: Bull Head
+      position: {x: -0.26984513, y: 0.030162448, z: -0.38122004}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000012, y: 1.0000007, z: 1.0000006}
+    - name: Bull L Clavicle
+      parentName: Bull Spine2
+      position: {x: -0.31635383, y: -0.05251476, z: 0.09009796}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.000001}
+    - name: Bull L UpperArm
+      parentName: Bull L Clavicle
+      position: {x: -0.35603216, y: 0.000000014305114, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Bull L Forearm
+      parentName: Bull L UpperArm
+      position: {x: -0.27802667, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000005, z: 1.0000005}
+    - name: Bull L Hand
+      parentName: Bull L Forearm
+      position: {x: -0.12447418, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 0.9999999, y: 0.99999964, z: 0.99999994}
+    - name: Bull L Finger0
+      parentName: Bull L Hand
+      position: {x: -0.055511244, y: 0.0069291685, z: -0.0205974}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 1.0000002, y: 1.0000008, z: 1.0000006}
+    - name: Bull L Finger1
+      parentName: Bull L Hand
+      position: {x: -0.087838665, y: 0.014989014, z: -0.0017050552}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.000001, z: 1.0000008}
+    - name: Bull R Clavicle
+      parentName: Bull Spine2
+      position: {x: -0.31635383, y: -0.052514266, z: -0.09009826}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1.0000013, y: 1, z: 1.0000001}
+    - name: Bull R UpperArm
+      parentName: Bull R Clavicle
+      position: {x: -0.35603216, y: 0.000000014305114, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000002}
+    - name: Bull R Forearm
+      parentName: Bull R UpperArm
+      position: {x: -0.27802673, y: -0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000005}
+    - name: Bull R Hand
+      parentName: Bull R Forearm
+      position: {x: -0.12447418, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1}
+    - name: Bull R Finger0
+      parentName: Bull R Hand
+      position: {x: -0.05551128, y: 0.006929245, z: 0.0205974}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000002}
+    - name: Bull R Finger1
+      parentName: Bull R Hand
+      position: {x: -0.0878387, y: 0.014989014, z: 0.0017050742}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1}
+    - name: Bull L Thigh
+      parentName: Bull Pelvis
+      position: {x: 0.00000030517577, y: 0.00000031113623, z: 0.21380287}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: Bull L Calf
+      parentName: Bull L Thigh
+      position: {x: -0.2137301, y: 0, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000001}
+    - name: Bull L Foot
+      parentName: Bull L Calf
+      position: {x: -0.0874843, y: 0.000000009536743, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Bull L Toe0
+      parentName: Bull L Foot
+      position: {x: -0.046007536, y: 0.09912739, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000014, y: 1.0000005, z: 1.0000011}
+    - name: Bull Tail
+      parentName: Bull Pelvis
+      position: {x: 0.0002217102, y: -0.13886476, z: 0.0024242997}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Bull Tail02
+      parentName: Bull Tail
+      position: {x: -0.27846235, y: -0.0002217865, z: -5.9604643e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Bull Tail03
+      parentName: Bull Tail02
+      position: {x: -0.27846232, y: -0.00022167205, z: -5.9604643e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Bull Tail04
+      parentName: Bull Tail03
+      position: {x: -0.27846238, y: -0.00022174834, z: -5.9604643e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Bull R Thigh
+      parentName: Bull Pelvis
+      position: {x: -0.00000030517577, y: -0.00000028192997, z: -0.21380287}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000006}
+    - name: Bull R Calf
+      parentName: Bull R Thigh
+      position: {x: -0.21373008, y: 0.000000009536743, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000002}
+    - name: Bull R Foot
+      parentName: Bull R Calf
+      position: {x: -0.08748431, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999998, z: 1.0000001}
+    - name: Bull R Toe0
+      parentName: Bull R Foot
+      position: {x: -0.046007536, y: 0.09912739, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000008, y: 1, z: 1.0000007}
+    - name: Bull Mesh
+      parentName: Bull(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f027b3712861b8d4484f26292a596265,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

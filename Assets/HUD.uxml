@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/UISTYLE.uss?fileID=7433441132597879392&amp;guid=d92859c32e568ca418bece0cbb9041ce&amp;type=3#UISTYLE" />
+    <ui:VisualElement style="align-items: auto; justify-content: space-around;" />
+    <ui:Button text="Button" display-tooltip-when-elided="true" style="-unity-text-align: lower-center;" />
+</ui:UXML>

@@ -1,0 +1,51 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.InputSystem;
+using UnityEngine.XR.ARFoundation;
+using UnityEngine.XR.ARSubsystems;
+
+
+public class PlaceObjectMode : MonoBehaviour
+{
+    [SerializeField] ARRaycastManager raycaster;
+
+    private new Transform camera;
+
+    GameObject placedPrefab;
+    List<ARRaycastHit> hits = new List<ARRaycastHit>();
+
+    void OnEnable()
+    {
+        UIController.ShowUI("PlaceObject");
+    }
+
+    void Start()
+    {
+        camera = Camera.main.transform;
+    }
+
+
+    public void SetPlacedPrefab(GameObject prefab)
+    {
+        placedPrefab = prefab;
+    }
+
+    public void OnPlaceObject(InputValue value)
+    {
+        Vector2 touchPosition = value.Get<Vector2>();
+        //Debug.Log("OnPlaceObject " + touchPosition);
+        PlaceObject(touchPosition);
+    }
+
+    void PlaceObject(Vector2 touchPosition)
+    {
+        if (raycaster.Raycast(touchPosition, hits, TrackableType.PlaneWithinPolygon))
+        {
+            Pose hitPose = hits[0].pose;
+            var sceneObject = Instantiate(placedPrefab, hitPose.position, hitPose.rotation * Quaternion.Euler(0f, 180f, 0f));
+            InteractionController.EnableMode("Main");
+        }
+    }
+
+}
