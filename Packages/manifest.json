@@ -1,18 +1,26 @@
 {
   "dependencies": {
-    "com.kyrylokuzyk.arfoundationremote": "file:../Assets/Plugins/ARFoundationRemoteInstaller/com.kyrylokuzyk.arfoundationremote.tgz",
+    "com.atteneder.gltfast": "https://github.com/atteneder/glTFast.git#v5.0.0",
+    "com.cesium.unity": "1.5.0",
+    "com.google.ar.core.arfoundation.extensions": "https://github.com/google-ar/arcore-unity-extensions.git",
+    "com.madsbangh.easybuttons": "https://github.com/madsbangh/EasyButtons.git#upm",
+    "com.readyplayerme.core": "https://github.com/readyplayerme/rpm-unity-sdk-core.git#v3.2.3",
+    "com.readyplayerme.webview": "https://github.com/readyplayerme/rpm-unity-sdk-webview.git#v1.2.1",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.2d.tilemap.extras": "2.2.2",
     "com.unity.adaptiveperformance": "3.0.2",
     "com.unity.adaptiveperformance.samsung.android": "3.0.1",
     "com.unity.addressables": "1.19.19",
+    "com.unity.animation.rigging": "1.1.1",
     "com.unity.cinemachine": "2.8.9",
     "com.unity.collab-proxy": "1.15.16",
-    "com.unity.feature.ar": "1.0.0",
+    "com.unity.feature.development": "1.0.1",
     "com.unity.ide.rider": "3.0.14",
     "com.unity.ide.visualstudio": "2.0.15",
     "com.unity.ide.vscode": "1.2.5",
     "com.unity.inputsystem": "1.3.0",
+    "com.unity.learn.iet-framework": "2.0.0",
+    "com.unity.live-capture": "1.0.1",
     "com.unity.localization": "1.0.3",
     "com.unity.mobile.android-logcat": "1.3.2",
     "com.unity.postprocessing": "3.2.2",
@@ -21,10 +29,12 @@
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.timeline": "1.6.4",
     "com.unity.ugui": "1.0.0",
-    "com.unity.ui.builder": "https://github.com/needle-mirror/com.unity.ui.builder.git",
-    "com.unity.xr.arcore": "4.2.7",
+    "com.unity.visualscripting": "1.7.2",
+    "com.unity.xr.arcore": "4.2.8",
+    "com.unity.xr.arfoundation": "4.2.8",
     "com.unity.xr.arkit": "4.2.3",
     "com.unity.xr.arkit-face-tracking": "4.2.3",
+    "com.unity.xr.core-utils": "2.2.3",
     "com.unity.xr.management": "4.2.1",
     "com.unity.xr.openxr": "1.4.2",
     "com.unity.modules.ai": "1.0.0",
@@ -58,5 +68,14 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "Cesium",
+      "url": "https://unity.pkg.cesium.com",
+      "scopes": [
+        "com.cesium.unity"
+      ]
+    }
+  ]
 }

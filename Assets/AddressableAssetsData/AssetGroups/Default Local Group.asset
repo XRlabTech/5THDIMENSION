@@ -16,7 +16,11 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 1c6e243fa60044d448a97d48901a7adc
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: a9b4454493d69e34a80494ad72488271
+    m_Address: Assets/Avatars/ReadyPlayerMe/Avatar.glb
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 405f0df7fdddbea418286ca3ca0a3616, type: 2}
   m_SchemaSet:

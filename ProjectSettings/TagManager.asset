@@ -6,6 +6,18 @@ TagManager:
   tags:
   - waypoint
   - QuestionPanel
+  - vape01
+  - vape02
+  - p1
+  - p2
+  - p3
+  - p4
+  - p5
+  - apple
+  - bags
+  - villion
+  - city
+  - orange
   layers:
   - Default
   - TransparentFX

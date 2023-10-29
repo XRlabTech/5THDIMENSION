@@ -6150,6 +6150,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Gizmos_DrawLine_Injected_mE5B3A0C9CAC003
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Gizmos_DrawWireSphere_Injected_m64C36A8626ABA3A484064A2A1AB4CEAB7D0677A9 (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* ___center0, float ___radius1, const RuntimeMethod* method) ;
 // System.Void UnityEngine.Gizmos::DrawSphere_Injected(UnityEngine.Vector3&,System.Single)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Gizmos_DrawSphere_Injected_m36697AAC590520BBC69A77B8DBCBD29C59DE7C48 (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* ___center0, float ___radius1, const RuntimeMethod* method) ;
+// System.Void UnityEngine.Gizmos::DrawWireCube_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Gizmos_DrawWireCube_Injected_mF11452F038A28D118AFD53C61293431C55E2BEDA (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* ___center0, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* ___size1, const RuntimeMethod* method) ;
 // System.Void UnityEngine.Gizmos::DrawCube_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Gizmos_DrawCube_Injected_m77497D5FECD9ECA4120B61EFC99E0578772C12AB (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* ___center0, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* ___size1, const RuntimeMethod* method) ;
 // System.Void UnityEngine.Gizmos::DrawIcon_Injected(UnityEngine.Vector3&,System.String,System.Boolean,UnityEngine.Color&)
@@ -11599,6 +11601,16 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Application_get_systemLanguage_mF0C8F
 	static Application_get_systemLanguage_mF0C8FBE854F7B58315A61087619DD10CB53A9AFF_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (Application_get_systemLanguage_mF0C8FBE854F7B58315A61087619DD10CB53A9AFF_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Application::get_systemLanguage()");
+	int32_t icallRetVal = _il2cpp_icall_func();
+	return icallRetVal;
+}
+// UnityEngine.NetworkReachability UnityEngine.Application::get_internetReachability()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Application_get_internetReachability_mBF18F280D8BF621664049E9EB406ECF28FB7DC51 (const RuntimeMethod* method) 
+{
+	typedef int32_t (*Application_get_internetReachability_mBF18F280D8BF621664049E9EB406ECF28FB7DC51_ftn) ();
+	static Application_get_internetReachability_mBF18F280D8BF621664049E9EB406ECF28FB7DC51_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Application_get_internetReachability_mBF18F280D8BF621664049E9EB406ECF28FB7DC51_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Application::get_internetReachability()");
 	int32_t icallRetVal = _il2cpp_icall_func();
 	return icallRetVal;
 }
@@ -20174,6 +20186,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Gizmos_DrawSphere_m80D4373C59949363664E5
 		return;
 	}
 }
+// System.Void UnityEngine.Gizmos::DrawWireCube(UnityEngine.Vector3,UnityEngine.Vector3)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Gizmos_DrawWireCube_m31971565E5002365FE94256FFE1DC5B070FDBBA7 (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___center0, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___size1, const RuntimeMethod* method) 
+{
+	{
+		Gizmos_DrawWireCube_Injected_mF11452F038A28D118AFD53C61293431C55E2BEDA((&___center0), (&___size1), NULL);
+		return;
+	}
+}
 // System.Void UnityEngine.Gizmos::DrawCube(UnityEngine.Vector3,UnityEngine.Vector3)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Gizmos_DrawCube_mE7D2162786517A14E8A740C7887CD08A3105B192 (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___center0, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___size1, const RuntimeMethod* method) 
 {
@@ -20234,6 +20254,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Gizmos_DrawSphere_Injected_m36697AAC5905
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (Gizmos_DrawSphere_Injected_m36697AAC590520BBC69A77B8DBCBD29C59DE7C48_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Gizmos::DrawSphere_Injected(UnityEngine.Vector3&,System.Single)");
 	_il2cpp_icall_func(___center0, ___radius1);
+}
+// System.Void UnityEngine.Gizmos::DrawWireCube_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Gizmos_DrawWireCube_Injected_mF11452F038A28D118AFD53C61293431C55E2BEDA (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* ___center0, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* ___size1, const RuntimeMethod* method) 
+{
+	typedef void (*Gizmos_DrawWireCube_Injected_mF11452F038A28D118AFD53C61293431C55E2BEDA_ftn) (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2*);
+	static Gizmos_DrawWireCube_Injected_mF11452F038A28D118AFD53C61293431C55E2BEDA_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Gizmos_DrawWireCube_Injected_mF11452F038A28D118AFD53C61293431C55E2BEDA_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Gizmos::DrawWireCube_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&)");
+	_il2cpp_icall_func(___center0, ___size1);
 }
 // System.Void UnityEngine.Gizmos::DrawCube_Injected(UnityEngine.Vector3&,UnityEngine.Vector3&)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Gizmos_DrawCube_Injected_m77497D5FECD9ECA4120B61EFC99E0578772C12AB (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* ___center0, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* ___size1, const RuntimeMethod* method) 

@@ -6,23 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
+    path: Assets/Samples/ARCore Extensions/1.38.0/Geospatial Sample/Scenes/Geospatial.unity
+    guid: 1ed15e9657253406185e4b2c7c5a4fc4
+  - enabled: 0
+    path: Assets/ARProject/Core/Scenes/5TH Dimension/GeoSpatialNPC.unity
+    guid: ea40c40f9f007934dbfcd00564691e4f
+  - enabled: 1
     path: Assets/ARProject/Core/Scenes/ARdemo/ARMain.unity
     guid: 03b2e1896ed914638a3271f3eb0ad39e
-  - enabled: 0
-    path: Assets/ARProject/Core/Scenes/QuestionAR/TheBigBunnyEscape.unity
-    guid: 66570f199fc1c9d45ac703b539e7866e
-  - enabled: 1
-    path: Assets/ARProject/Core/Scenes/MainScene/MainScene.unity
-    guid: e270d86cd500a26449123fc80973b11f
-  - enabled: 0
-    path: Assets/Core/Scenes/Anchors.unity
-    guid: 5cba9114a192a46a7aef31da62316e39
-  - enabled: 0
-    path: Assets/ARProject/Core/Scenes/MainScene 1/MainScene.unity
-    guid: e154fd5c0591c3f4a934f7cc63c0dbc5
-  - enabled: 0
-    path: Assets/ARProject/Core/Scenes/AnchorScale/AnchorScale.unity
-    guid: 893684916ab9c92488c2fa15abf21314
   m_configObjects:
     AR Foundation RemoteARFoundationRemoteLoaderSettings: {fileID: 11400000, guid: 4032d9642894c31459964aadd69270e0, type: 2}
     AR Foundation RemoteARFoundationRemoteSessionRecordsData: {fileID: 11400000, guid: 4522a41d0047b0a48a137e28c0a331a7, type: 2}

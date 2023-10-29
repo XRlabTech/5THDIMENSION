@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36cf3b74950b299408cc642cd2423789, type: 3}
+  m_Name: ReadMe
+  m_EditorClassIdentifier: 
+  Title: Tezos SDK For Unity
+  Icon: {fileID: 2800000, guid: 639c542448d029e4099871c47dc40b03, type: 3}
+  Sections:
+  - TextHeading: Getting Started
+    TextSubheading: 
+    TextBody: 'Follow our documentation below to start exploring the SDK!'
+    LinkName: Getting Started
+    LinkUrl: https://opentezos.com/gaming/unity-sdk/getting-started/
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName:
+    MenuItemPath:
+  - TextHeading: Scenes
+    TextSubheading: 
+    TextBody: 'You can find various scenes under Assets > Scenes'
+    LinkName:
+    LinkUrl:
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName:
+    MenuItemPath:
+  - TextHeading:
+    TextSubheading: 
+    TextBody:
+    LinkName: 'DemoExampleScene: This is our Inventory Sample Game.'
+    LinkUrl: https://opentezos.com/gaming/unity-sdk/inventory-sample-game/
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName:
+    MenuItemPath:
+  - TextHeading:
+    TextSubheading: 
+    TextBody: 
+    LinkName: 'NFTApiSample: You can experiment with our awesome API here.' 
+    LinkUrl: https://opentezos.com/gaming/unity-sdk/api-documentation/
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName:
+    MenuItemPath:
+  - TextHeading: Report an Issue
+    TextSubheading: 
+    TextBody: 'To report an issue, on the upper bar, click Tools > Tezos SDK for Unity > Report an Issue'
+    LinkName:
+    LinkUrl:
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: Tools/Tezos SDK for Unity/Report an Issue
+    MenuItemPath: Tools/Tezos SDK for Unity/Report an Issue
+  - TextHeading: Join our community
+    TextSubheading: 
+    TextBody: 'Looking to get further support and share your work? Join and reach us out!'
+    LinkName: Tezos Discord
+    LinkUrl: https://discord.com/invite/tezos
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName:
+    MenuItemPath:
+  HasLoadedLayout: 0

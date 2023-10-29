@@ -2,58 +2,196 @@
     "m_SelectedDeviceId": "99201FFBA00AUC",
     "m_SelectedPackage": {
         "deviceId": "99201FFBA00AUC",
-        "name": "com.labs.ARdev",
-        "processId": 9305,
+        "name": "com.pixelvolcano.aqualife",
+        "processId": 26121,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "99201FFBA00AUC",
-            "name": "com.labs.ARdev",
-            "processId": 8186,
-            "exited": true
-        },
-        {
-            "deviceId": "99201FFBA00AUC",
-            "name": "com.labs.ARdev",
-            "processId": 9046,
-            "exited": true
-        },
-        {
-            "deviceId": "99201FFBA00AUC",
-            "name": "com.labs.ARdev",
-            "processId": 9554,
-            "exited": true
-        },
-        {
-            "deviceId": "99201FFBA00AUC",
-            "name": "com.labs.ARdevARCompanion",
-            "processId": 13381,
-            "exited": true
-        },
-        {
-            "deviceId": "99201FFBA00AUC",
-            "name": "com.google.android.apps.nexuslauncher",
-            "processId": 15004,
-            "exited": false
-        },
-        {
-            "deviceId": "99201FFBA00AUC",
             "name": "com.android.settings",
             "processId": 15645,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "99201FFBA00AUC",
             "name": "com.labs.ARdev",
             "processId": 8008,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "99201FFBA00AUC",
             "name": "com.labs.ARdev",
             "processId": 9305,
+            "exited": true
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.labs.ARdev",
+            "processId": 25958,
+            "exited": true
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.google.android.apps.nexuslauncher",
+            "processId": 17126,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.labs.ARdev",
+            "processId": 28690,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.labs.ARdev",
+            "processId": 29663,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.labs.ARdev",
+            "processId": 31230,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.labs.ARdev",
+            "processId": 1706,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.labs.ARdev",
+            "processId": 24066,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.labs.ARdev",
+            "processId": 27496,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.labs.ARdev",
+            "processId": 16727,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.labs.ARdev",
+            "processId": 17254,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.pixelvolcano.aqualife",
+            "processId": 22283,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.pixelvolcano.aqualife",
+            "processId": 15453,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.pixelvolcano.aqualife",
+            "processId": 17648,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.pixelvolcano.aqualife",
+            "processId": 18735,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.pixelvolcano.aqualife",
+            "processId": 20088,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.pixelvolcano.aqualife",
+            "processId": 21083,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.pixelvolcano.aqualife",
+            "processId": 20180,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.pixelvolcano.aqualife",
+            "processId": 4213,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.pixelvolcano.aqualife",
+            "processId": 28605,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.pixelvolcano.aqualife",
+            "processId": 5810,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.pixelvolcano.aqualife",
+            "processId": 20153,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.pixelvolcano.aqualife",
+            "processId": 22248,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.pixelvolcano.aqualife",
+            "processId": 26519,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.pixelvolcano.aqualife",
+            "processId": 29195,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.pixelvolcano.aqualife",
+            "processId": 31119,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.pixelvolcano.aqualife",
+            "processId": 3566,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.pixelvolcano.aqualife",
+            "processId": 3178,
+            "exited": false
+        },
+        {
+            "deviceId": "99201FFBA00AUC",
+            "name": "com.pixelvolcano.aqualife",
+            "processId": 26121,
             "exited": false
         },
         {

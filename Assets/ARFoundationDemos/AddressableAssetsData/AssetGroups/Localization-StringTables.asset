@@ -17,11 +17,6 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: cd4031c4ba3ea4ed982ab771123a6859
   m_SerializeEntries:
-  - m_GUID: 35fa11219ad1f4c4a8ecb31d75185db1
-    m_Address: ReasonsUX_it
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-it
   - m_GUID: 390d2b8c250c64d56bb4acf7279d8827
     m_Address: ReasonsUX_ta-IN
     m_ReadOnly: 1
@@ -37,11 +32,6 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-nl
-  - m_GUID: b28fc5e6207d848e7a76edc85677ec3d
-    m_Address: ReasonsUX_ko
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-ko
   - m_GUID: d81eeb14491dd48e7944140e5d99597f
     m_Address: ReasonsUX_es
     m_ReadOnly: 1

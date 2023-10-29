@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.Localization.SmartFormat.PersistentVariables;
 using UnityStandardAssets.CrossPlatformInput;
 
 namespace UnityStandardAssets.Characters.ThirdPerson
@@ -11,9 +12,11 @@ namespace UnityStandardAssets.Characters.ThirdPerson
         private Transform m_Cam;                  // A reference to the main camera in the scenes transform
         private Vector3 m_CamForward;             // The current forward direction of the camera
         private Vector3 m_Move;
-        private bool m_Jump;                      // the world-relative desired move direction, calculated from the camForward and user input.
+        public bool m_Jump;                      // the world-relative desired move direction, calculated from the camForward and user input.
 
-        
+        public float h;
+        public float v;
+
         private void Start()
         {
             // get the transform of the main camera
@@ -43,11 +46,11 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 
 
         // Fixed update is called in sync with physics
-        private void FixedUpdate()
+        public void FixedUpdate()
         {
             // read inputs
-            float h = CrossPlatformInputManager.GetAxis("Horizontal");
-            float v = CrossPlatformInputManager.GetAxis("Vertical");
+            /*float h = CrossPlatformInputManager.GetAxis("Horizontal");
+            float v = CrossPlatformInputManager.GetAxis("Vertical");*/
             bool crouch = Input.GetKey(KeyCode.C);
 
             // calculate move direction to pass to character
